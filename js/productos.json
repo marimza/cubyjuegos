@@ -1,0 +1,17 @@
+[
+    {"nombre":"Piraminx", "precio":3500, "img":"./img/piraminx.png", "id": "piraminx", "categoria":"cubos"},
+    {"nombre":"Megaminx", "precio":7000, "img":"img/megaminx.png", "id": "megaminx", "categoria":"cubos"},
+    {"nombre":"Ivycube", "precio":5500, "img":"img/ivycube.png", "id": "ivycube", "categoria":"cubos"},
+    {"nombre":"Mirror", "precio":3500, "img":"img/mirror.png", "id": "mirror", "categoria":"cubos"},
+    {"nombre":"3x3", "precio":7000, "img":"img/tresxtres.png", "id": "tresxtres", "categoria":"cubos"},
+    {"nombre":"2x2", "precio":5500, "img":"img/dosxdos.png", "id": "dosxdos", "categoria":"cubos"},
+    {"nombre":"Mastermorphix", "precio":3500, "img":"img/mastermorphix.jpeg", "id": "mastermorphix", "categoria":"cubos"},
+    {"nombre":"4x4 fibra de carbono", "precio":5500, "img":"img/carbono.jpeg", "id": "carbono", "categoria":"cubos"},
+    {"nombre":"Manzana", "precio":7000, "img":"img/manzana.jpg", "id": "manzana", "categoria":"cubos"},
+    {"nombre":"Aceite", "precio":1500, "img":"img/aceite.jpeg", "id": "aceite", "categoria":"accesorios"},
+    {"nombre":"Base para cubo", "precio":800, "img":"img/basecubo.jpeg", "id": "base", "categoria":"accesorios"},
+    {"nombre":"Llavero", "precio":2500, "img":"img/llavero.jpeg", "id": "llavero", "categoria":"accesorios"},
+    {"nombre":"Llavero cubo 3x3", "precio":2500, "img":"img/llavero-dos.jpeg", "id": "llaverodos", "categoria":"accesorios"},
+    {"nombre":"Taza", "precio":3500, "img":"img/taza.jpeg", "id": "taza", "categoria":"accesorios"}
+
+]
